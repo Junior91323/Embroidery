@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Embroidery", "Embroidery\Embroidery.csproj", "{6E136DC9-8C52-4A60-A8DA-7E71ECA69200}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Converter", "Converter\Converter.csproj", "{BC70B842-2040-41FF-840B-E6BCD0B58FCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E136DC9-8C52-4A60-A8DA-7E71ECA69200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E136DC9-8C52-4A60-A8DA-7E71ECA69200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E136DC9-8C52-4A60-A8DA-7E71ECA69200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E136DC9-8C52-4A60-A8DA-7E71ECA69200}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC70B842-2040-41FF-840B-E6BCD0B58FCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC70B842-2040-41FF-840B-E6BCD0B58FCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC70B842-2040-41FF-840B-E6BCD0B58FCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC70B842-2040-41FF-840B-E6BCD0B58FCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
